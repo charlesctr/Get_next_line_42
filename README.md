@@ -1,11 +1,24 @@
-42 - GET_NEXT_LINE -
+<h1 align="center">Welcome to Get_next_line_42👋</h1>
+<p>
+  <img alt="Version" src="https://img.shields.io/badge/version-1.0-blue.svg?cacheSeconds=2592000" />
+</p>
 
-This project will not only allow you to add a very convenient function to your collection,
-but it will also allow you to learn a highly interesting new concept in C programming:
-static variables.
-You will also gain a deeper understanding of allocations, whether they happen on the
-stack memory or in the heap memory, the manipulation and the life cycle of a buffer, the
-unexpected complexity implied in the use of one or many static variables.
-Your respect of the Norm will improve the rigor of your programming. We also suspect
-that your approach to coding will change when you will discover that the initial state of
-a variable in a function can vary depending on the call of that very function.
+<h1>What is Get_next_line ?</h1>
+
+<p>
+
+* The projectget_next_line, will allow you to read a line ending with a newline character from a file descriptor.
+
+ </p>
+
+## Authors
+
+👤 **Charles**
+
+* GitHub: [@charlesctr](https://github.com/charlesctr)
+
+## 📝 License
+
+Copyright © 2020 [Charles Ctr] (https://github.com/charlesctr).<br />
+***
+
