@@ -7,7 +7,7 @@
 
 <p>
 
-* The projectget_next_line, will allow you to read a line ending with a newline character from a file descriptor.
+* The project get_next_line, will allow you to read a line ending with a newline character from a file descriptor.
 
  </p>
 
